@@ -1,0 +1,14 @@
+.form__button{
+    border-radius: 5px;
+    outline: solid;
+    outline-color: white;
+    outline-width: 1px;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+.form__button:hover{
+    transition: 0.3s;
+    opacity: 0.5;
+}

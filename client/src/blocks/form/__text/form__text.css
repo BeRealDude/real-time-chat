@@ -1,0 +1,10 @@
+.form__text{
+    width: 296px;
+    color: white;
+    background-color: transparent;
+    border-bottom: outset;
+    outline: none;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-radius: 4%;
+}
